@@ -1,0 +1,6 @@
+devices:
+  - name: lab-router-1
+    host: 192.168.1.1
+    device_type: cisco_ios
+    username_env: NETWORK_USERNAME
+    password_env: NETWORK_PASSWORD
